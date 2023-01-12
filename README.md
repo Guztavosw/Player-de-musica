@@ -6,10 +6,6 @@
 HTML e CSS
 
 
-## ✒️ Autores
-
-Rocketseat
-
 
 
 
